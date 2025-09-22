@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import type { InputHTMLAttributes, JSX } from 'react'
 
 export function Input({ className = '', ...props }: InputHTMLAttributes<HTMLInputElement>): JSX.Element {
